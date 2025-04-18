@@ -1,0 +1,13 @@
+__pycache__
+logs
+config.ini
+alembic.ini
+migrations
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+venv
